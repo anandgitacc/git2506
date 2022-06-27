@@ -16,6 +16,10 @@ public class EmployeeDetails {
 	private void empAdd() {
 		System.out.println("Employee add: OMR-chennai");
 	}
+	
+	private void empId() {
+		System.out.println("Employee id:1122");
+	}
 	//               main method
 	public static void main(String[] args) {
 		
