@@ -16,6 +16,10 @@ public class EmployeeDetails {
 	private void empAdd() {
 		System.out.println("Employee add: OMR-chennai");
 	}
+	
+	private void empClient() {
+		System.out.println("Tech mahindra");
+	}
 	//               main method
 	public static void main(String[] args) {
 		
