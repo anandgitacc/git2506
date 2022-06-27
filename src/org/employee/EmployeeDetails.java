@@ -16,10 +16,18 @@ public class EmployeeDetails {
 	private void empAdd() {
 		System.out.println("Employee add: OMR-chennai");
 	}
-	
+	private void empClient() {
+		System.out.println("Tech mahindra");
+	}
 	private void empId() {
 		System.out.println("Employee id:1122");
 	}
+	
+//<<<<<<< HEAD
+//	
+//=======
+//	
+//>>>>>>> f6326fbbfa5baecec9e365e021597d2e5f337e4d
 	//               main method
 	public static void main(String[] args) {
 		
